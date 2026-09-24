@@ -17,4 +17,3 @@ git cherry-pick <start_commit>..<end_commit>
 and:
 
 git cherry-pick <start_commit>^..<end_commit>
-Identify which commits are selected.
