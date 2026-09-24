@@ -3,3 +3,17 @@ Cherry-pick a range using:
 
 git cherry-pick <start_commit>..<end_commit>
 Identify which commits are selected.
+
+Task 2 — Including Starting Commit
+Now use:
+
+git cherry-pick <start_commit>^..<end_commit>
+Identify which commits are selected.
+
+Answer
+Explain the difference between:
+
+git cherry-pick <start_commit>..<end_commit>
+and:
+
+git cherry-pick <start_commit>^..<end_commit>
