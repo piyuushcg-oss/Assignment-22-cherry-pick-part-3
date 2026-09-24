@@ -1,0 +1,5 @@
+Task 1 — Excluding Starting Commit
+Cherry-pick a range using:
+
+git cherry-pick <start_commit>..<end_commit>
+Identify which commits are selected.
